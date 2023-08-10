@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Phu D Nguyen!
 
-![Phu D Nguyen GitHub Header](/mnt/data/github-header-image.png)
+![Phu D Nguyen GitHub Header](github-header-image.png)
 
 I'm a forward-thinking computer science student at Virginia Tech, driven by a passion for programming, big data, and machine learning. My academic pursuits blend seamlessly with my professional endeavors, where I currently tackle challenges in an SMS anti-spam project and explore a multitude of technologies.
 

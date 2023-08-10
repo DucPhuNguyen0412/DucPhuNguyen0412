@@ -6,7 +6,7 @@ I'm a forward-thinking computer science student at Virginia Tech, driven by a pa
 ### Role: Software Developer at [ISTT](https://www.istt.com.vn/en/home/)
 In my role as a Software Developer, I dive into diverse and complex projects:
 - **Text Preprocessing and Filtering**: Crafting intelligent algorithms for text processing and spam filtering.
-- **Data Visualization**: Bringing data to life with interactive visualizations using Python Plotly.
+- **Data Visualization**: My visualization of our team progress. The graph represent the classification and content of our SMS test dataset [interactive visualizations using Python Plotly](link-to-your-plotly-visualization).
 - **Data Crawling**: Unleashing web scraping to gather valuable data and insights.
 - **Technologies**: Python, Big Data Tools (Airflow, Spark), Scrum Management (Jira), Plotly, MySQL, Apache Superset.
 
@@ -16,12 +16,11 @@ I thrive on collaboration, innovation, and excellence, striving to make a meanin
 Studying computer science at **Virginia Tech**, I'm immersed in the fascinating world of technology. My academic interests are fueled by a desire to explore NLP models, classification algorithms, and the ever-evolving field of machine learning.
 
 ## 🚀 Personal Project: UrFlight
-My latest adventure, **UrFlight**, is a personal project driven by curiosity and the thrill of discovery:
+My latest adventure, **UrFlight**, a personal project driven by curiosity:
 - **Goal**: Navigating new tools, expanding knowledge, and hunting for reasonable flight prices.
 - **Status**: In-flight, with regular updates amidst professional commitments.
 - **Technologies**: Python, S3 AWS, PySpark, Airflow, PostgreSQL, Elasticsearch, Grafana, Prometheus, Django.
-
-This project is a testament to my exploratory spirit and my commitment to lifelong learning.
+- **Repository**: [eCommData-Processing on GitHub](https://github.com/DucPhuNguyen0412/eCommData-Processing)
 
 ## 📬 Connect with Me
 I'm always open to collaboration, discussions, or just a friendly chat:

@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Phu D Nguyen!
 
+![Phu D Nguyen GitHub Header](/mnt/data/github-header-image.png)
+
 I'm a forward-thinking computer science student at Virginia Tech, driven by a passion for programming, big data, and machine learning. My academic pursuits blend seamlessly with my professional endeavors, where I currently tackle challenges in an SMS anti-spam project and explore a multitude of technologies.
 
-![Banner Image](link-to-banner-image-if-you-have-one)
-
 ## 🛠️ Current Work
-### Role: Software Developer at ISTT[link to company website]
+### Role: Software Developer at [ISTT](https://www.istt.com.vn/en/home/)
 In my role as a Software Developer, I dive into diverse and complex projects:
 - **Text Preprocessing and Filtering**: Crafting intelligent algorithms for text processing and spam filtering.
 - **Data Visualization**: Bringing data to life with interactive visualizations using Python Plotly.

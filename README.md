@@ -1,6 +1,4 @@
 ![Phu D Nguyen GitHub Header](github_picture.png)
-## 🙋 Pronouns
-He/him
 
 I'm a forward-thinking computer science student at [Virginia Tech](https://www.vt.edu/), driven by a passion for programming, big data, and machine learning. Currently, I'm participate in an impactful SMS anti-spam project that aims to make digital communication safer and more efficient. This opportunity not only allows me to leverage my technical skills for real-world problem-solving, but also to collaborate with my coworkers and experience professional Agile project management via Scrum.
 

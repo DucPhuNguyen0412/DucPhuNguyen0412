@@ -16,9 +16,9 @@ Studying computer science at [Virginia Tech](https://www.vt.edu/), I'm immersed 
 ## 🚀 Personal Project: 
 # JobScraper
 **JobScraper** is your ultimate companion in navigating the competitive job market. Integrated with a user-friendly UI, this dynamic platform aggregates job listings from industry giants like LinkedIn, Indeed, and ZipRecruiter, serving them up in one simplified, easily searchable interface.
-**Current Status**: Fully Operational with future upgrade (Resume Analyzer). The UI seamlessly interacts with the backend, enabling real-time job searches. You can also enhance your search based on location, job types, and more. Plus, customize how many results you'd like to see (default is set at 10 per platform).
-**Technologies**: Tech stack includes Python for backend logic, MySQL for data storage, and JavaScript along with HTML/CSS for a polished, responsive front-end.
-**GitHub Repository**: Elevate your job search today. Check out [JobScraper on GitHub](https://github.com/DucPhuNguyen0412/JobScraper) for the source code and documentation.
+- **Current Status**: Fully Operational with future upgrade (Resume Analyzer). The UI seamlessly interacts with the backend, enabling real-time job searches. You can also enhance your search based on location, job types, and more. Plus, customize how many results you'd like to see (default is set at 10 per platform).
+- **Technologies**: Tech stack includes Python for backend logic, MySQL for data storage, and JavaScript along with HTML/CSS for a polished, responsive front-end.
+- **GitHub Repository**: Elevate your job search today. Check out [JobScraper on GitHub](https://github.com/DucPhuNguyen0412/JobScraper) for the source code and documentation.
 
 # YourFlight
 **YourFlight** takes the hassle out of hunting for affordable airfare. This project is my first step in ETL, along with Cloud Storing via AWS. YourFlight scrapes real-time data from Kayak and Google Flights, and conveniently archives the results on an AWS S3 bucket for easy retrieval and analysis.
